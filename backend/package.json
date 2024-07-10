@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "FastThis-backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -18,8 +18,8 @@
   "bugs": "",
   "keywords": [],
   "author": {
-    "name": "",
-    "email": "",
+    "name": "Fatima Badaoui",
+    "email": "f.badaoui1993@gmail.com",
     "url": ""
   },
   "contributors": [],
