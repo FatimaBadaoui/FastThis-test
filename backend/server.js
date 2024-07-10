@@ -18,7 +18,7 @@ app.get("/", (req, res) => {
   });
 });
 
-app.use("/api/products", productRouter);
+app.use("/products", productRouter);
 
 // Error handlers
 app.use(notFound);
